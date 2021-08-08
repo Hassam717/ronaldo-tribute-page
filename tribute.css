@@ -1,0 +1,10 @@
+body{
+  background: url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png);
+}
+.center {
+  text-align: center;
+  }
+.responsive{
+   width: 50%;
+   height: auto;
+  }
